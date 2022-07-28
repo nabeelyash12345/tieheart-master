@@ -1,0 +1,10 @@
+{
+  "name": "TieHearts",
+  "displayName": "TieHearts",
+  "android": {
+    "googleServicesFile": "./android/app/google-services.json"
+  },
+  "plugins": [
+    "@react-native-firebase/app"
+  ]
+}

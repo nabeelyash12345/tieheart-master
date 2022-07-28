@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "100203556049",
+    "project_id": "tieheart-f1808",
+    "storage_bucket": "tieheart-f1808.appspot.com",
+    "firebase_url": "https://tieheart-f1808.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100203556049:android:53746cdb702d47a1dca9f0",
+        "android_client_info": {
+          "package_name": "com.tiehearts.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100203556049-eiao4kplq9btiorb2h2bs6iml1d29df0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiehearts.app",
+            "certificate_hash": "7f8706efeddba257436b59fba0341682b3acdc7f"
+          }
+        },
+        {
+          "client_id": "100203556049-k014gstoksiis4nh33ij88ogo2bt2ekm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCcwY9X3w0GAPXfsqElDwuJmTgoE6pNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100203556049-k014gstoksiis4nh33ij88ogo2bt2ekm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

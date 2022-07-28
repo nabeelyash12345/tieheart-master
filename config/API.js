@@ -1,0 +1,27 @@
+global.host = 'http://43.204.13.143/tieheart/WebService.asmx/';
+global.host_main = 'http://43.204.13.143/tieheart/WebService.asmx/';
+global.host_photo = 'http://43.204.13.143/tieheart/upload/user/';
+global.host_payment = 'http://43.204.13.143/tieheart/WebService.asmx/';
+
+global._countryCode = '';
+global._mobile = '';
+global._name = '';
+global._nickName = '';
+global._dob = '';
+global._age = '';
+global._gender = '';
+global._rStatus = '';
+global._status = '';
+global._aboutMe = '';
+global._email = '';
+global._paymentStatus = '';
+global._PaymentExpiryDate = '';
+global._allNotification = '';
+global._chatNotification = '';
+global._matchNotification = '';
+global._crush = '';
+global._paymentReavel = '';
+global._joiningDate = '';
+global._photo = '';
+global._photoBase64 = '';
+global._fcmToken = '';
